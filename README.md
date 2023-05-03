@@ -13,5 +13,5 @@ More information about the project can be found in the [project report](RISC22_R
 ## Top Level Design
 ![RISC22 Architecture](RISC22.png)
 
-## Instruction Set Architecture
+## ALU Design
 ![ALU Unit](ALU_unit.png)
